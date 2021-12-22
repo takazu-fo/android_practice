@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
                         SampleFragment.newInstance("Fragment"));
                 fragmentTransaction.commit();
             });
+
         }
     }
 }
