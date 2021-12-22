@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">YourAppName</string>
-    <string name="hello_fragment">Hello Fragment</string>
+    <string name="app_name">フラグメント練習</string>
+    <string name="hello_fragment">まーむずいね（笑）</string>
 </resources>
